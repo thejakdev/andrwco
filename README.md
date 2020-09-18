@@ -17,11 +17,31 @@ Here are some ideas to get you started:
 
 ### Olá, sou Jackson Correa 👋
 
-- 🔭 Atualmente estou criando um canal no Youtube e produzindo alguns conteúdos legais!
-- 🌱 Atualmente estou estudando NodeJS e ReactJS
-- 👯 Procuro sempre estar conectado com o outros devs
-- 🥅 Objetivos de 2020: Aprender mais sobre Javascript e contribuir mais para projetos de código aberto
-- ⚡ Hobbies: Amo tocar violão e guitarra nas horas vagas.
+- 🔭  Atualmente estou criando um canal no Youtube e produzindo alguns conteúdos legais!
+- 🌱  Atualmente estou estudando NodeJS e ReactJS
+- 👯  Procuro sempre estar conectado com o outros devs
+- 🥅  Objetivos de 2020: Aprender mais sobre Javascript e contribuir mais para projetos de código aberto
+- ⚡  Hobbies: Amo tocar violão e guitarra nas horas vagas.
+
+### Um Pouco Sobre Mim 💬 
+Fascinado por UI, UX e Front-End. Amo passar alguns minutos do meu dia vasculhando o Behance, Dribbble e UpLabs. E como uma terapia ver trabalhos incríveis de outros profissionais como, Lorenzo Bocchi, Viktor Vörös, Agência Cuberto, Agência Netguru, entre outros..
+<br />
+Eu trabalho a 9 anos na area, dos quais 3 anos foram dedicados a carreira freelancer. onde tive a oportunidade de trabalhar em diversos projetos e crescer profissionalmente.
+<br />
+<br />
+-- Por onde andei?
+Ja trabalhei em agências como a Viaje Mais Pagando Menos, CodeRun e atualmente trabalho na Commarket como UI Design e Dev Front-End.
+<br />
+<br />
+-- Estudos
+Atualmente mantenho meu foco voltado para o Javascript ( NodeJS e React ).
+<br />
+<br />
+-- Hobbies
+Amo musica, nas horas vagas gosto de pegar o violão, reunir alguns amigos e tocar algumas musicas.
+Todos nós precisamos de uma válvula de escape e eu encontrei na musica a minha. 
+<br />
+<br />
 
 ### Spotify Ouvindo Agora 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](spotify:playlist:2yjDuHSw6a8v2VMmncDK7P)
@@ -30,6 +50,10 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+<br />
+
+Ou me envie um email 📫  jacksoncorrea@outlook.com.br
 
 <br />
 
@@ -57,6 +81,7 @@ Here are some ideas to get you started:
 
 [facebook]: https://www.facebook.com/jkscorrea/
 [linkedin]: https://www.linkedin.com/in/jacksoncorrea/
+[whatsapp]: https://wa.link/li8c7z
 [webdevplaylist]: #!
 [jsplaylist]: #!
 [cssplaylist]: #!

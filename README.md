@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 
 - 🔭  Atualmente estou criando um canal no Youtube e produzindo alguns conteúdos legais!
 - 🌱  Atualmente estou estudando NodeJS e ReactJS
-- 👯  Procuro sempre estar conectado com o outros devs
-- 🥅  Objetivos de 2020: Aprender mais sobre Javascript e contribuir mais para projetos de código aberto
+- 👯  Procuro sempre estar conectado com outros devs
+- 🥅  Objetivos de 2021: Aprender mais sobre Javascript e contribuir mais para projetos de código aberto
 - ⚡  Hobbies: Amo tocar violão e guitarra nas horas vagas.
 
 ### Um Pouco Sobre Mim 💬 
 Fascinado por UI, UX e Front-End. Amo passar alguns minutos do meu dia vasculhando o Behance, Dribbble e UpLabs. E como uma terapia ver trabalhos incríveis de outros profissionais como, Lorenzo Bocchi, Viktor Vörös, Agência Cuberto, Agência Netguru, entre outros..
-<br />
-Eu trabalho a 9 anos na area, dos quais 3 anos foram dedicados a carreira freelancer. onde tive a oportunidade de trabalhar em diversos projetos e crescer profissionalmente.
 <br />
 <br />
 -- Por onde andei?
